@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> 
 
-I'm Johnatan Brayan, and I'm a Software Engineer. I'm from Brazil, and I'm currently living in Brasília.
+I'm a Software Engineer. I'm from Brazil, and I'm currently living in Brasília.
 
 [![Linkedin: johnatanbrayan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnatanbrayan/)](https://www.linkedin.com/in/johnatanbrayan/)
 [![Gmail Badge](https://img.shields.io/badge/-johnatanbrayan1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnatanbrayan1@gmail.com)](mailto:johnatanbrayan1@gmail.com)
