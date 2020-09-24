@@ -11,7 +11,8 @@
 
 <em>Nice to meet you!. I'm a fullstack developer. I'm from Brazil, and I'm currently living in Brasília.</em>
 
-- 🔭 I’m currently working on <a href="http://www.4quality.com.br/" target="_blank">4Quality Tecnologia</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+- 🔭 I’m currently working on <a href="http://www.4quality.com.br/" target="_blank">4Quality Tecnologia</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📝 See my [Curriculum](https://drive.google.com/file/d/0B7GI6n0VmuzXak5FX2kzQTVINUE/view) to get more info.
 
 ## Technologies :fire:
 
