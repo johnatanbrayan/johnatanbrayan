@@ -1,15 +1,19 @@
-# Johnatan Brayan  👋
+# Johnatan Brayan :sunglasses:
 
 [![Linkedin: johnatanbrayan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnatanbrayan/)](https://www.linkedin.com/in/johnatanbrayan/)
+[![Sourcerer](https://img.shields.io/badge/-Sourcerer-222222?style=flat-square&logo=sourcegraph&logoColor=white&link=https://sourcerer.io/johnatanbrayan)](https://sourcerer.io/johnatanbrayan)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/206620/johnatanbrayan)](https://stackoverflow.com/users/206620/johnatanbrayan)
 [![Gmail Badge](https://img.shields.io/badge/-johnatanbrayan1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnatanbrayan1@gmail.com)](mailto:johnatanbrayan1@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561992659789&text=Hi!)](https://api.whatsapp.com/send?phone=5561992659789&text=Hi!)
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> 
+<!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-I'm a Software Engineer. I'm from Brazil, and I'm currently living in Brasília.
+<em>Nice to meet you!. I'm a fullstack developer. I'm from Brazil, and I'm currently living in Brasília.</em>
 
-- 🔭 I’m currently working on <a href="http://www.4quality.com.br/" target="_blank">4Quality Tecnologia</a>
+- 🔭 I’m currently working on <a href="http://www.4quality.com.br/" target="_blank">4Quality Tecnologia</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-## ⚡ Technologies
+## Technologies :fire:
 
 These are some of the technologies and tools that I work with:
 
@@ -36,6 +40,7 @@ These are some of the technologies and tools that I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
