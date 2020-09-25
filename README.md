@@ -14,6 +14,10 @@
 - 🔭 I’m currently working on <a href="http://www.4quality.com.br/" target="_blank">4Quality Tecnologia</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 See my [Curriculum](https://drive.google.com/file/d/0B7GI6n0VmuzXak5FX2kzQTVINUE/view) to get more info.
 
+<a href="https://github.com/johnatanbrayan"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=johnatanbrayan&show_icons=true" alt="johnatanbrayan's GitHub Stats" />
+</a>
+
 ## Technologies :fire:
 
 These are some of the technologies and tools that I work with:
