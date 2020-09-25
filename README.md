@@ -7,7 +7,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561992659789&text=Hi!)](https://api.whatsapp.com/send?phone=5561992659789&text=Hi!)
 
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 
 <em>Nice to meet you!. I'm a fullstack developer. I'm from Brazil, and I'm currently living in Brasília.</em>
 
@@ -15,7 +15,20 @@
 - 📝 See my [Curriculum](https://drive.google.com/file/d/0B7GI6n0VmuzXak5FX2kzQTVINUE/view) to get more info.
 
 <a href="https://github.com/johnatanbrayan"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=johnatanbrayan&show_icons=true" alt="johnatanbrayan's GitHub Stats" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=johnatanbrayan&show_icons=true" alt="johnatanbrayan's GitHub Stats" />
+</a>
+
+<a href="https://codestats.net/users/johnatanbrayan">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanbrayan&layout=compact" alt="Most Used Languages" />
+</a>
+
+### My latest projects
+
+<a href="https://github.com/johnatanbrayan/financeiro">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=financeiro" alt="financeiro" />
+</a>
+<a href="https://github.com/johnatanbrayan/ECommerce">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=ECommerce" alt="ECommerce" />
 </a>
 
 ## Technologies :fire:
