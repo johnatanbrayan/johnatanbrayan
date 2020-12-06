@@ -23,14 +23,14 @@
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnatanbrayan&layout=compact" alt="Most Used Languages" />
 </a>
 
-### My latest projects
+<!-- ### My latest projects -->
 
-<a href="https://github.com/johnatanbrayan/financeiro">
+<!-- <a href="https://github.com/johnatanbrayan/financeiro">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=financeiro" alt="financeiro" />
 </a>
 <a href="https://github.com/johnatanbrayan/ECommerce">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=ECommerce" alt="ECommerce" />
-</a>
+</a> -->
 
 ## Technologies :fire:
 
