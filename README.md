@@ -25,12 +25,9 @@
 
 <!-- ### My latest projects -->
 
-<!-- <a href="https://github.com/johnatanbrayan/financeiro">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=financeiro" alt="financeiro" />
+<!-- <a href="">
+  <img align="middle" src="" alt="" />
 </a>
-<a href="https://github.com/johnatanbrayan/ECommerce">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=johnatanbrayan&repo=ECommerce" alt="ECommerce" />
-</a> -->
 
 ## Technologies :fire:
 
@@ -66,18 +63,3 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-222222?style=for-the-badge&logo=visual-studio-code)
 ![Figma](https://img.shields.io/badge/-Figma-222222?style=for-the-badge&logo=figma)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=for-the-badge&logo=linux&logoColor=white)
-
-<!--
-**johnatanbrayan/johnatanbrayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
