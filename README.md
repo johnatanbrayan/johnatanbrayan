@@ -3,7 +3,7 @@
 [![Linkedin: johnatanbrayan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnatanbrayan/)](https://www.linkedin.com/in/johnatanbrayan/)
 [![Profile Summary](https://img.shields.io/badge/-Profile%20Summary-222222?style=flat-square&logo=ghost&logoColor=white&link=https://profile-summary-for-github.com/user/johnatanbrayan)](https://profile-summary-for-github.com/user/johnatanbrayan)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F7F8F8?style=flat-square&logo=stack-overflow&link=https://stackoverflow.com/users/11842217/johnatanbrayan?tab=profile)](https://stackoverflow.com/users/11842217/johnatanbrayan?tab=profile)
-[![Gmail Badge](https://img.shields.io/badge/-johnatanbrayan1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnatanbrayan1@gmail.com)](mailto:johnatanbrayan1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-johnatanbrayan1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnatanbrayan1@gmail.com)](mailto:johnatanbrayan1@gmail.com)i
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561992659789&text=Hi!)](https://api.whatsapp.com/send?phone=5561992659789&text=Hi!)
 
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
@@ -11,7 +11,7 @@
 
 <em>Nice to meet you!. I'm a fullstack developer. I'm from Brazil, and I'm currently living in Brasília.</em>
 
-- 🔭 I’m currently working on <a href="http://www.4quality.com.br/" target="_blank">4Quality Tecnologia</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<!-- - 🔭 I’m currently working on <a href="http://www.4quality.com.br/" target="_blank">4Quality Tecnologia</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
 <!-- - 📝 See my [Curriculum](https://drive.google.com/file/d/0B7GI6n0VmuzXak5FX2kzQTVINUE/view) to get more info. -->
 
 <a href="https://github.com/johnatanbrayan"> 
