@@ -14,9 +14,9 @@
 - 🔭 I’m currently working on <a href="https://www.totvs.com/" target="_blank">TOTVS</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <!-- - 📝 See my [Curriculum](https://drive.google.com/file/d/0B7GI6n0VmuzXak5FX2kzQTVINUE/view) to get more info. -->
 
-<a href="https://github.com/johnatanbrayan"> 
+<!-- <a href="https://github.com/johnatanbrayan"> 
   <img align="middle" src="https://github-readme-stats.vercel.app/api?username=johnatanbrayan&show_icons=true" alt="johnatanbrayan's GitHub Stats" />
-</a>
+</a> -->
 
 <!-- ### Recently I'm coding in... -->
 <!-- <a href="https://codestats.net/users/johnatanbrayan">
